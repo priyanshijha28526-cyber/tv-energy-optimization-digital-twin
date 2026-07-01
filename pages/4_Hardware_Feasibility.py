@@ -34,7 +34,7 @@ st.divider()
 st.subheader("System Architecture")
 
 st.image(
-    "assets/architecture.png",
+    "Assets/architecture.png",
     use_container_width=True
 )
 st.caption(
