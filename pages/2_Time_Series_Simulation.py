@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import plotly.express as px
 
-st.title("Time Series Simulation")
+st.title("TIME SERIES TEST - UPDATED VERSION")
 
 duration = st.slider(
     "Session Duration (minutes)",
