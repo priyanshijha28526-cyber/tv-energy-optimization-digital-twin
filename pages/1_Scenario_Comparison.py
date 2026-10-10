@@ -16,7 +16,6 @@ st.set_page_config(
     layout="wide"
 )
 
-
 # --------------------------------------------------
 # CUSTOM STYLING — CONSISTENT WITH HOME PAGE
 # --------------------------------------------------
