@@ -13,7 +13,6 @@ from power_model import wall_power
 
 st.set_page_config(
     page_title="Scenario Comparison | TV Energy Digital Twin",
-    page_icon="📊",
     layout="wide"
 )
 
