@@ -113,7 +113,7 @@ st.markdown(
 st.markdown(
     """
     <div class="hero">
-        <h1>📊 Scenario Comparison</h1>
+        <h1> Scenario Comparison</h1>
         <p>
             Evaluate estimated TV power consumption and
             backlight optimization across five viewing conditions.
